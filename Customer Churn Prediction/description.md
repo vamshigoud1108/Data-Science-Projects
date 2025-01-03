@@ -20,8 +20,8 @@ The dataset used in this project is sourced from ![Kaggle](https://www.kaggle.co
 |OnlineSecurity | Binary flag indicating if the customer has online security add-on (1 = Yes, 0 = No) |
 |TechSupport | Binary flag indicating if the customer has tech support add-on (1 = Yes, 0 = No) |
 |Contract | Type of contract (Month-to-month, One year, or Two year) |
-|MonthlyCharges | Monthly charges paid by the customer (in dollars) |
-|TotalCharges | Total charges paid by the customer over the tenure (in dollars) |
+|MonthlyCharges | Monthly charges paid by the customer. |
+|TotalCharges | Total charges paid by the customer over the tenure. |
 |Churn | 	Binary flag indicating if the customer churned (1 = Yes, 0 = No)|
 
 ## Conclusion
