@@ -16,7 +16,7 @@ The dataset used in this project comprises multiple health indicators and a targ
 | SkinThickness | Skin fold thickness (mm)|
 | Insulin |2-Hour serum insulin (mu U/ml)| 
 | BMI | Body mass index (weight in kg / height in m^2)|
-| DiabetesPedigreeFunction | Diabetes pedigree function|
+| DiabetesPedigreeFunction | A measure of genetic risk based on family history of diabetes|
 | Age | Age (years) |
 | Outcome | Class variable (0: No diabetes, 1: Diabetes)|
 
