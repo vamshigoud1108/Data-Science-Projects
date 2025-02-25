@@ -33,11 +33,11 @@ This project demonstrates how machine learning can accurately predict customer c
 ## Conclusion
 From the Exploratory Data Analysis (EDA), it was observed that key factors influencing customer churn include:
 
--**MonthlyCharges**: Higher monthly charges might drive churn due to cost dissatisfaction.
--**TotalCharges**: Long-term customers with higher total charges were less likely to churn.
--**Contract Type**: Customers with a month-to-month contract are more likely to churn compared to those with longer-term contracts.
--**Tenure**: Customers with a longer tenure are less likely to churn.
-- **OnlineSecurity**: Customers without online security services are more likely to churn.
+- **MonthlyCharges**: Higher monthly charges might drive churn due to cost dissatisfaction.
+- **TotalCharges**: Long-term customers with higher total charges were less likely to churn.
+- **Contract Type**: Customers with a month-to-month contract are more likely to churn compared to those with longer-term contracts.
+- **Tenure**: Customers with a longer tenure are less likely to churn.
+- **OnlineSecurity**: Customers without online security services are more likely to churn. 
 - **TechSupport**: Customers without technical support services have a higher likelihood of churning.
 
-Coming to the evaluation of the machine learning models, I employed classification models Decision Tree, and Random Forest. Among these, the Random Forest model outperformed the others, achieving the highest accuracy of 77% and a well-balanced precision, recall, and F1-score.However, the model initially showed signs of overfitting, so hyperparameter tuning was performed to enhance generalization and improve its performance on unseen data. Therefore, it is the most effective model for accurately predicting customer churn.
+Coming to the evaluation of the machine learning models, I employed classification models Decision Tree, and Random Forest. Among these, the Random Forest model outperformed the others, achieving the highest accuracy of 76% and a well-balanced precision, recall, and F1-score.However, the model initially showed signs of overfitting, so hyperparameter tuning was performed to enhance generalization and improve its performance on unseen data. Therefore, it is the most effective model for accurately predicting customer churn.
