@@ -33,10 +33,10 @@ This project demonstrates how machine learning can accurately predict customer c
 ## Conclusion
 From the Exploratory Data Analysis (EDA), it was observed that key factors influencing customer churn include:
 
--**MonthlyCharges**: Higher monthly charges might drive churn due to cost dissatisfaction.
--**TotalCharges**: Long-term customers with higher total charges were less likely to churn.
--**Contract Type**: Customers with a month-to-month contract are more likely to churn compared to those with longer-term contracts.
--**Tenure**: Customers with a longer tenure are less likely to churn.
+- **MonthlyCharges**: Higher monthly charges might drive churn due to cost dissatisfaction.
+- **TotalCharges**: Long-term customers with higher total charges were less likely to churn.
+- **Contract Type**: Customers with a month-to-month contract are more likely to churn compared to those with longer-term contracts.
+- **Tenure**: Customers with a longer tenure are less likely to churn.
 - **OnlineSecurity**: Customers without online security services are more likely to churn.
 - **TechSupport**: Customers without technical support services have a higher likelihood of churning.
 
